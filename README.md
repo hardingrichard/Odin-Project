@@ -1,5 +1,5 @@
 # Odin-Project
-Collection of repositories for projects relating to The Odin Project courses.
+Collection of my repositories for projects relating to The Odin Project courses.
 
 ## Foundations Course
 
